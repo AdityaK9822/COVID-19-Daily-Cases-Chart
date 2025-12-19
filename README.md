@@ -9,10 +9,11 @@ During the COVID-19 pandemic, analyzing daily case data was essential for unders
 This project presents a Python-based system that processes COVID-19 daily case data and converts it into meaningful visual charts. The system applies Object-Oriented Programming (OOP) along with automation features such as decorators, lambda functions, and list comprehensions.
 
 The final output includes:
-	•	📈 Daily cases line chart
+```
+    •	📈 Daily cases line chart
 	•	📊 7-day moving average
 	•	🔴 Highlighted peak case values
-
+```
 These features support clear and effective trend analysis.
 
 
@@ -91,9 +92,12 @@ These features reduce redundancy and improve code clarity.
 ## 📈 Visualization Output
 
 The generated chart includes:
+```
 	•	📉 A line representing daily COVID-19 cases
 	•	📊 A 7-day moving average line
 	•	🔴 Markers highlighting peak case days
+```
+![alt text](https://github.com/AdityaK9822/COVID-19-Daily-Cases-Chart/blob/main/covid_cases_20251216_170710.png?raw=true)
 
 This makes trend identification faster and more intuitive than analyzing raw numbers.
 
