@@ -1,7 +1,6 @@
 # **🦠 COVID-19 Daily Cases Visualization and Analysis using Python**
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📌 Problem Statement and Analysis
 
@@ -17,7 +16,6 @@ The final output includes:
 These features support clear and effective trend analysis.
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 Objectives
 
@@ -29,7 +27,6 @@ The main objectives of this project are:
 	•	✅ Apply OOP and advanced Python features in a real-world scenario
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🏗️ System Overview
 
@@ -44,7 +41,6 @@ Controls program flow and connects all components.
 📁 Input data is read from a CSV file, and output charts are stored in a separate folder for better organization.
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Tools and Technologies
 	•	Python – Core programming language
@@ -54,7 +50,6 @@ Controls program flow and connects all components.
 	•	Object-Oriented Programming (OOP) – Modular and maintainable design
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 Data Processing and Analysis
 
@@ -67,7 +62,6 @@ To better understand trends, a 7-day moving average is calculated. This reduces 
 This approach keeps the code clean, efficient, and readable.
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧩 Object-Oriented Design
 
@@ -84,7 +78,6 @@ This approach keeps the code clean, efficient, and readable.
 This separation improves code readability and maintainability.
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ⚙️ Automation Features
 	•	🧷 Decorators validate date ranges before plotting charts
@@ -94,7 +87,6 @@ This separation improves code readability and maintainability.
 These features reduce redundancy and improve code clarity.
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📈 Visualization Output
 
@@ -105,7 +97,6 @@ The generated chart includes:
 
 This makes trend identification faster and more intuitive than analyzing raw numbers.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ✅ Results and Conclusion
 
